@@ -1,0 +1,52 @@
+body {
+    font-family: arial, sans-serif;
+    margin: 2em;
+    background-color: #f1f1f1;
+}
+header {
+    padding: 0 5px 5px 55px;
+}
+
+header h1 {
+    margin: 0;
+    padding: 0;
+    letter-spacing: -2px;
+}
+
+header h1 img {
+    width: 48px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+section {
+    margin: 1em 2em;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 10px 10px;
+    padding: 10px 30px 30px 30px;
+}
+
+label {
+    font-size: .8em;
+}
+
+input {
+    font-size: .8em;
+    border: 1px solid #ccc;
+    padding: 3px;
+    width: 100px;
+}
+
+.example {
+    font-size: .7em;
+    color: #999;
+    display: block;
+}
+
+#status {
+    color: #ff6103;
+    padding: 0 1em;
+    font-weight: bold;
+    font-size: 10px;
+}
