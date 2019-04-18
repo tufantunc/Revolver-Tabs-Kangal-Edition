@@ -8,6 +8,6 @@ This version made especially for Yiğido's.
 
 Every hour, at 58th minute, you can show a website about Sivas or Kangal's.
 
-Minutes and websites can custamizable.
+Minutes and websites can customizable.
 
 Best regards.
